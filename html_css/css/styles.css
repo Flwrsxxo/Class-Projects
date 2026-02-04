@@ -58,7 +58,7 @@ h2 {
 }
 
 main {
-    display: flex;
+    display: block;
 }
 
 main img {
