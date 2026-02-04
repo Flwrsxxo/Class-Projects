@@ -139,10 +139,13 @@ hr {
 iframe {
     display: block;
     margin: 20px auto;
-    width: 100%;
+    
      border: 2px solid rgb(105, 37, 60);
      border-radius: 10px;
       box-shadow: 2px 2px 5px rgb(135, 45, 75);
+      width: 65%;
+      height: 450px;
+
 }
 
 .Address_list {
