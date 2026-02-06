@@ -89,6 +89,7 @@ nav ul {
 main ul{
     list-style-type: none;
     padding: 0;
+    text-align: center;
 }
 
 nav li {
