@@ -86,6 +86,11 @@ nav ul {
     padding: 0;
 }
 
+main ul{
+    list-style-type: none;
+    padding: 0;
+}
+
 nav li {
     display: block;
 }
