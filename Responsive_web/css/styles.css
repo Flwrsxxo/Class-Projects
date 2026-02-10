@@ -183,6 +183,11 @@ footer {
         
         border-radius: 10px;
     }
+
+    #single_col {
+        display: block;
+    }
+
     main {
         display: flex;
     }
