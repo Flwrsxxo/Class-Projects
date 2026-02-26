@@ -5,5 +5,5 @@
 <li><a href="html_css/index.html" target="_blank">HTML & CSS</a></li>
 <li><a href="advanced_css" target="_blank">Advanced CSS</a></li>
 <li><a href="Responsive_web" target="_blank">Responsive Web</a></li>
-<li><a href="Final" target="_blank">Final</a></li>
+<li><a href="final_project" target="_blank">Final Project</a></li>
 </ul>
